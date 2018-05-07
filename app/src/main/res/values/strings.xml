@@ -3,4 +3,6 @@
     <string name="app_title">BodySginal</string>
     <string name="login">login</string>
     <string name="weather">weather</string>
+    <string name="facebook_app_id">140877996668899</string>
+    <string name="fb_login_protocol_scheme">fb140877996668899</string>
 </resources>
